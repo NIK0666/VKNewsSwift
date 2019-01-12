@@ -4,7 +4,7 @@
 
 ### Implemented:
 - VK authorization
-- List of authorized user news (text, pictures)
+- Feed news (text, pictures)
 - Search by keyword for all news VK
 - Number of news views
 - Number of likes news
