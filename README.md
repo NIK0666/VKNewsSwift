@@ -1,5 +1,5 @@
 # VKNewsViewer
-
+![](demonstration-portrait.gif)
 ## Client created on swift 4 without using Storyboard and xib
 
 ### Implemented:
