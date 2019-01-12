@@ -1,0 +1,6 @@
+module Pods_VKNewsViewer {
+  umbrella header "Pods-VKNewsViewer-umbrella.h"
+
+  export *
+  module * { export * }
+}
